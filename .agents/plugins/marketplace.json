@@ -1,0 +1,17 @@
+{
+  "name": "cua",
+  "plugins": [
+    {
+      "name": "cua",
+      "source": {
+        "source": "local",
+        "path": "."
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "cua"
+    }
+  ]
+}
