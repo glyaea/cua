@@ -1,0 +1,17 @@
+{
+  "name": "cua",
+  "version": "0.0.0",
+  "description": "cua",
+  "author": {
+    "name": "cua"
+  },
+  "interface": {
+    "displayName": "cua",
+    "shortDescription": "cua",
+    "longDescription": "cua",
+    "developerName": "cua",
+    "category": "cua",
+    "capabilities": [],
+    "defaultPrompt": ""
+  }
+}
